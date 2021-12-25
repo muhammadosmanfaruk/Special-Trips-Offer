@@ -27,7 +27,6 @@ class SplashScreen extends StatelessWidget {
                     alignment: Alignment.center,
                     child: Text("Welcome to Special Trips Offer",style: GoogleFonts.oswald(color: Colors.redAccent,fontSize: 30,fontWeight: FontWeight.bold,),),
                   ),
-
                 ],
               ),
             ),
